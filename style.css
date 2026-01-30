@@ -90,6 +90,9 @@ h2 {
   text-align: center;
   transition: transform 0.2s ease, background 0.2s;
   border: 1px solid transparent;
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
 }
 
 .team-member:hover {
